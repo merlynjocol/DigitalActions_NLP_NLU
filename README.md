@@ -4,10 +4,7 @@ This repository is part of the HEIDI+ Project. 
 
 The HEIDI project (Digital action at High Education institutions as a catalyst for social change) aspires to reposition HEIs with respect to society, as many traditional models of knowledge creation and circulation have shifted, challenged by bottom-up, community-driven action and the networking of individuals. 
 
-The HEIDI project has the aim to transform the role of the HE into one involved in debates about social change and situate HEIs as co-creators of solutions to the problems that surface with the pandemic. HEIDI project seeks to create collaborative frameworks between HEIs, voluntary-sector organizations, and civic society organizations.
-
-The consortium is composed of partners with complementary profiles: 3 HEIs (University of Malta, University of Paris, and the University College London), one SME (W2L, Greece), and one NGO (CIP, Cyprus). Each partner has an intellectual output. The University of Paris has the responsibility to build a set of
-methodological guidelines for the design, implementation, and assessment of digital actions (materials needed, guidelines, tips, etc.), and the methodology for measuring the impact of Digital Actions (DA) awareness and training events, as well as the implementation of Digital actions.
+The consortium is composed of partners with complementary profiles: 3 HEIs (University of Malta, University of Paris, and the University College London), one SME (W2L, Greece), and one NGO (CIP, Cyprus). Each partner has an intellectual output. The University of Paris has the responsibility to build a set of methodological guidelines for the design, implementation, and assessment of digital actions (materials needed, guidelines, tips, etc.), and the methodology for measuring the impact of Digital Actions (DA) awareness and training events, as well as the implementation of Digital actions.
 
 In this project, the digital actions are the Citizen Science Project, the Maker Movement, and Hackathons/ Datathons.
 
@@ -78,7 +75,15 @@ Topic modeling is a probabilistic model that identifies topics covered in text. 
 
 
 ### Libraries
-SpaCy, Seaborn, gesim, pyLDAvis 
+
+```
+SpaCy
+Seaborn
+gesim
+pyLDAvis 
+pandas 
+
+```
 
 
 ## Semantic Search 
@@ -109,11 +114,19 @@ have a discussion part, I take only the conclusions.
 
 
 ### Libraries
-Spacy, pySBD, S-BERT, numpy, pandas
+```
+SpaCy
+pySBD
+S-BERT
+numpy
+pandas
+
+```
 
 ### Pre-trained models
 Pre-models developed by UKLab and Allen institute, in the repository of Hugging Face Transformers
 
+```
 - model 1: Original model
   model1 = SentenceTransformer('bert-base-nli-mean-tokens')
 
@@ -122,7 +135,8 @@ Pre-models developed by UKLab and Allen institute, in the repository of Hugging 
 
 - model 3: SciBERT
  model3 = SentenceTransformer('allenai/scibert_scivocab_uncased')
-
+ 
+```
 
 # Licensing
 
