@@ -26,7 +26,7 @@ corpus from interviews and focus groups, and computational methods to mining sci
 reports.
 
 
-![methods](http://url/to/img.png)
+![methods](https://github.com/merlynjocol/DigitalActions_NLP_NLU/blob/b7775050f9de5b05469b0a651565d105eb89ee81/Images/Methods_heidi.png)
 
 
 Figura 1. Methods implemented during the stage
