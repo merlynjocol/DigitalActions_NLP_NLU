@@ -35,9 +35,11 @@ https://towardsdatascience.com/bert-for-measuring-text-similarity-eec91c6bf9e1
 
 
 ## Content analysis
-The data used in the content analysis is not published in this repository for reasons of privacy and non  authorization to publish it. 
+The data used in the content analysis is not published in this repository for reasons of privacy and non  authorization to publish it.  The data came from interviews and focus groups. Label relevant words, phrases, sentences, or sections. Labels can be about actions, activities, concepts, differences, opinions, processes, or whatever you think is relevant.
 
-This method combines theory-based coding with explorative coding to create a hybrid coding design. Therefore, the coding structure includes both theoretically and empirically driven units of analysis, also referred to as deductive and inductive categories (Armborst, 2017).
+This method combines theory-based coding with explorative coding to create a hybrid coding design. Therefore, the coding structure includes both theoretically and empirically driven units of analysis. The coding approach entails breaking down the text into its constituent parts by coding small parts of the larger text into categories. This typically involves a researcher or team of researchers developing a codebook, or dictionary, with which to categorize text. This process is iterative.
+
+
 
 ### Process
 
@@ -54,10 +56,6 @@ This method combines theory-based coding with explorative coding to create a hyb
 ● create and define labels
 
 
-The coding approach entails breaking down the text into its constituent parts by coding small parts of the larger text into categories. This typically involves a researcher or team of researchers developing a codebook, or dictionary, with which to categorize text. This process is iterative.
-
-The data came from interviews and focus groups. Label relevant words, phrases, sentences, or sections. Labels can be about actions, activities, concepts, differences, opinions, processes, or whatever you think is relevant.
-
 ### Tools
 Taguette is a free open-source text tagging tool for qualitative data analysis and qualitative research.
 
@@ -68,6 +66,15 @@ Topic modeling is a probabilistic model that identifies topics covered in text. 
 
 ### Process
 
+- Collecting the documents
+
+- Data cleaning
+
+- Breakdown the documents into tokens
+
+- Creation of Dictionary and Corpus
+
+- Finding the optimal number of topics (LDA )
 
 
 ### Libraries
