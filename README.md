@@ -138,7 +138,9 @@ Pre-models developed by UKLab and Allen institute, in the repository of Hugging 
  
 ```
 # Poster 
-Access to the Poster with the final results [HERE](https://assets.projects.lp-i.org/projects/project/attachments/YBq8WAuL/file/2022-05-09-HEIDI_Poster_finalimpresion_DigitalMethods.pdf?se=2023-03-29T10%3A10%3A54Z&sp=r&sv=2021-08-06&sr=b&sig=N%2BY5pkq7gsjYxl/9thYr/slMIfZ55Ts%2Bs1SxlOpLouE%3D)
+Access to the Poster with the final results [HERE](https://assets.projects.lp-i.org/projects/project/attachments/YBq8WAuL/file/2022-05-09-HEIDI_Poster_finalimpresion_DigitalMethods.pdf?se=2023-03-29T19%3A55%3A51Z&sp=r&sv=2021-08-06&sr=b&sig=R92RugzFil3bkDjbyPVkmbVwq1C%2BShGXNax8qSDvyYU%3D)
+
+
 
 # More about the results
 Visit the Learning Planet Institute Projects [HERE](https://projects.learningplanetinstitute.org/projects/creating-the-guidelines-of-digital-actions-for/description)
