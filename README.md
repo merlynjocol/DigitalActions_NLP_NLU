@@ -81,4 +81,53 @@ Topic modeling is a probabilistic model that identifies topics covered in text. 
 SpaCy, Seaborn, gesim, pyLDAvis 
 
 
+## Semantic Search 
 
+Semantic similarity search is the task of searching for documents or sentences which contain semantically similar content to a user-submitted search term. This task is often carried out, for instance when searching for information on the internet. To facilitate this, vector representations referred to as embeddings of both the documents to be searched as well as the search term must be created. 
+
+The approaches include neural networks, which have seen a large rise in popularity over the last few years. The BERT network released in 2018 is a highly regarded neural network which can be used to create embeddings. Multiple variations of the BERT network have been created since its release, such as the
+Sentence-BERT network which is explicitly designed to create sentence embeddings.
+
+The idea behind semantic search is to embed all entries in your corpus, whether they be sentences, paragraphs, or documents, into a vector space. At search time, the query is embedded into the same vector space and the closest embeddings from your corpus are found. 
+
+### Process 
+
+- Create the corpus from scientific publications and reports from different organizations
+
+- Work with the text from the Discussions and Conclusions part of scientific article. For the papers which don’t
+have a discussion part, I take only the conclusions.
+
+- Break the text by sentences (Sentence Segmentation)
+
+- Create a list of this sentences in the document
+
+- Download the models to compare
+
+- Encoder the dataset and the query
+
+- Apply the Cosine similarity between the query and sentences of the corpus
+
+
+### Libraries
+Spacy, pySBD, S-BERT, numpy, pandas
+
+### Pre-trained models
+Pre-models developed by UKLab and Allen institute, in the repository of Hugging Face Transformers
+
+- model 1: Original model
+  model1 = SentenceTransformer('bert-base-nli-mean-tokens')
+
+- model 2:
+  Model2 SentenceTransformer('sentence-transformers/multi-qa-MiniLM-L6-cos-v1')
+
+- model 3: SciBERT
+ model3 = SentenceTransformer('allenai/scibert_scivocab_uncased')
+
+
+# Licensing
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Credits
+
+Many thanks to [HEIDI+ Project][(https://github.com/pierrepo](https://heidiproject.eu/)
