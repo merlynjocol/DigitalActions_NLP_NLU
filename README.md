@@ -29,8 +29,6 @@ reports.
 ![methods](https://github.com/merlynjocol/DigitalActions_NLP_NLU/blob/b7775050f9de5b05469b0a651565d105eb89ee81/Images/Methods_heidi.png)
 
 
-Figura 1. Methods implemented during the stage
-
 Bird Illustration source: James Brigs.
 https://towardsdatascience.com/bert-for-measuring-text-similarity-eec91c6bf9e1
 
@@ -42,12 +40,19 @@ The data used in the content analysis is not published in this repository for re
 This method combines theory-based coding with explorative coding to create a hybrid coding design. Therefore, the coding structure includes both theoretically and empirically driven units of analysis, also referred to as deductive and inductive categories (Armborst, 2017).
 
 ### Process
+
 ● Reading the transcripts
+
 ● Create and define labels. Definitions with clear meaning
-● Decide on the coding strategy.
-● Label your research questions (code).
-● search for relevant information in the data.
-● create and define labels.
+
+● Decide on the coding strategy
+
+● Label your research questions (code)
+
+● search for relevant information in the data
+
+● create and define labels
+
 
 The coding approach entails breaking down the text into its constituent parts by coding small parts of the larger text into categories. This typically involves a researcher or team of researchers developing a codebook, or dictionary, with which to categorize text. This process is iterative.
 
