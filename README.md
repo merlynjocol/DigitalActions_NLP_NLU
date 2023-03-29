@@ -144,4 +144,4 @@ Pre-models developed by UKLab and Allen institute, in the repository of Hugging 
 
 # Credits
 
-Many thanks to [HEIDI+ Project][(https://github.com/pierrepo](https://heidiproject.eu/)
+Many thanks to [HEIDI+ Project](https://heidiproject.eu/)
