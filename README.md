@@ -138,7 +138,7 @@ Pre-models developed by UKLab and Allen institute, in the repository of Hugging 
  
 ```
 # Poster 
-Access to the Poster with the final results [HERE](https://assets.projects.lp-i.org/projects/project/attachments/YBq8WAuL/file/2022-05-09-HEIDI_Poster_finalimpresion_DigitalMethods.pdf?se=2023-03-29T19%3A55%3A51Z&sp=r&sv=2021-08-06&sr=b&sig=R92RugzFil3bkDjbyPVkmbVwq1C%2BShGXNax8qSDvyYU%3D)
+Access to the Poster with the final results [HERE](https://drive.google.com/file/d/1E4RXrVEeHgw7YLJr2CzIezhCbAjgrDtn/view)
 
 
 
